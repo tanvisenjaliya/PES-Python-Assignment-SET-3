@@ -1,0 +1,7 @@
+Hello!!... this is a text file for PES Assessment 3
+Write a program to open the existing file in read mode and perform following tasks,
+read 10 character at a time and then print its current position of file object. 
+repeat this operation till the EOF.
+reset the file pointer after reading 100 Character from file (Use Seek function to reset)
+open the file in read mode and start printing the contents from 5th line onwards.
+Treasure
